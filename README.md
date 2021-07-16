@@ -4,6 +4,9 @@
 Its day-1 with Machine Learning & Data Science
 
 Some glimpses of session were
-<img src="ss001.jpg">
-<img src="ss002.jpg">
-<img src="ss003.jpg">
+<br>
+<img src="ss001.png">
+<br>
+<img src="ss002.png">
+<br>
+<img src="ss003.png">
