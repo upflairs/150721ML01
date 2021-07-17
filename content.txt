@@ -1,0 +1,27 @@
+1. Data Container (variable) Handling Rules
+2. Keywords
+3. Use of Brackets
+	() - mathematical expr/functions/classes/Tuples
+	{} - dictionary/set
+	[] - list / indexing/slicing
+	<> - NA
+4. Operators
+	a. Arithmetic	+,-,*,/,**,//,%
+	b. Assignment	=,+=,-=,*=,/=,**=,//=,%=
+	c. Relational	>,<,==,!=,>=,<=
+	d. Logical	and,or,not
+	e. Bitwise	&,|,~,^,<<,>>
+	f. Membership	in, not in
+	g. Identity	is, is not
+5. Data Types
+	a. Manipulation
+	b. Built-in Functions
+6. Control Statement
+	a. if-elif-else
+	b. looping (for,while)
+		- Comprehension
+	c. error handling
+7. User-defined Functions
+	- annoymous
+8. Library
+9. OOP
