@@ -1,0 +1,6 @@
+name;age;subject
+rahul sharma;20;python
+vineeta;20;java
+vinod;21;python
+kaajal;18;python
+abhishek;19;java
